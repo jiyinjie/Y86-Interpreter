@@ -1,0 +1,5 @@
+a 	 Tok
+b 		Tok
+Tok 	C
+d e
+a b
